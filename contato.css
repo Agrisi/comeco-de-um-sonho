@@ -4,3 +4,23 @@
     --cor3: #3F4E4F;
     --cor4: #2C3639;
 }
+
+body{
+    background-color: #2C3639;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20%;
+}
+
+nav a :hover{ color: #DCD7C9;
+    transition: 3s;
+
+}
+
+.juuj {
+    color: var(--cor2);
+}
